@@ -1,0 +1,12 @@
+
+Originally conceived by rwldrn:
+http://gist.github.com/389933
+
+
+Contributions from ajpiano
+http://gist.github.com/390100
+( adds pollutant type and emit() )
+
+Contributions from jethrolarson
+http://gist.github.com/390411
+( adds Object.prototype pollution. Removes function closure for better pollution )
